@@ -1,0 +1,35 @@
+#car{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.car_result{
+    width: 90%;
+    background-color: moccasin;
+    border-radius: 10px;
+}
+
+#play_dough{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.play_dough_result{
+    width: 90%;
+    background-color: moccasin;
+    border-radius: 10px;
+}
+
+#sanitizer{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.dettol_result{
+    width: 90%;
+    background-color: moccasin;
+    border-radius: 10px;   
+}
